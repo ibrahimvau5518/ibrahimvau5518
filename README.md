@@ -60,3 +60,11 @@ No CSE background. No shortcuts. Just pure grit. I’m stepping into tech with f
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahimvau5518&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![snake animation](https://github.com/ibrahimvau5518/ibrahimvau5518/blob/output/snake.svg)
+
+</div>
